@@ -16,5 +16,8 @@ SpringCloud下如何搭建TX-LCN分布式事务
 视频地址:    
 https://youtu.be/PUACgQG52Ao
 
+PPT:   
+[TX-LCN-SpringCloud.pptx](TX-LCN-SpringCloud.pptx)
+
 TX-LCN分布式事务官网：  
 www.txlcn.org  
